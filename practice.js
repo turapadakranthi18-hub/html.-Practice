@@ -1,7 +1,7 @@
 //functions
 console.log("hello world")
 console.log("we are arthimetical")
-let a =100;
+let a =10;
 let b =20;
  
 let c = a+b;
